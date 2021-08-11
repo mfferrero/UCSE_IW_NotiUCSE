@@ -34,6 +34,6 @@ jobs:
       with:
         app-name: notiucse
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2DB3B5B5CF304551B4C43E17BA3A7F38 }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CE7CC78A6E9B4B38BAAC0C1A23749F46 }}
         package: ${{env.DOTNET_ROOT}}/myapp
 
