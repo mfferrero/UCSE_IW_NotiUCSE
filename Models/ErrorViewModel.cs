@@ -1,6 +1,6 @@
 using System;
 
-namespace NotiUCSE.Models
+namespace NotiUcse.Models
 {
     public class ErrorViewModel
     {
